@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="312defcd-f15b-4b66-a607-d07281817cef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/WEB-INF/glassfish-web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LibraryFlow.iml" afterPath="$PROJECT_DIR$/LibraryFlow.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/LibraryFlow/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/out/artifacts/LibraryFlow/WEB-INF/flows/main.xhtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" afterPath="$PROJECT_DIR$/web/WEB-INF/flows/main.xhtml" />
     </list>
     <ignored path="LibraryFlow.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -906,12 +902,12 @@
       <workItem from="1427698963788" duration="1114000" />
       <workItem from="1427700143233" duration="2168000" />
       <workItem from="1520027508986" duration="2446000" />
-      <workItem from="1520426259170" duration="7037000" />
+      <workItem from="1520426259170" duration="8082000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12765000" />
+    <option name="totallyTimeSpent" value="13810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
